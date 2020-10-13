@@ -23,7 +23,7 @@ body {
     text-align: center;
     color:white;
     background-color: rgba(0, 0, 0, 0.4);
-    transition: all 1.07s;
+    transition: all 0.5;
 }
 
 kbd{
@@ -40,7 +40,7 @@ kbd{
 }
 
 .playing{
-    transform: scale(1.5);
+    transform: scale(1.25);
     border:rgb(rgb(0, 217, 255));
     box-shadow: 0 0 10px rgb(0, 217, 255);
 }
